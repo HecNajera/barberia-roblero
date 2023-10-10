@@ -1,5 +1,6 @@
 # Barbería Roblero Website
 
+![foto de barbería roblero](https://hnwebstudio.com/wp-content/uploads/2023/07/barberia-1-555x1024.jpg)
 Welcome to the GitHub repository for the "Barbería Roblero" website! This project represents a barber shop's online presence, showcasing their services and providing essential information to potential customers.
 
 ## About
